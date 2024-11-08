@@ -1,0 +1,21 @@
+
+El versionamiento, o control de versiones, es un sistema que gestiona y registra los cambios realizados en archivos a lo largo del tiempo, permitiendo a los usuarios colaborar, rastrear y revertir modificaciones si es necesario. 
+Es fundamental en el desarrollo de software y otros proyectos colaborativos porque facilita el trabajo en equipo y la gestión de diferentes versiones de un proyecto.
+
+Puntos clave
+
+Historial de Cambios:
+
+Mantiene un registro detallado de todas las modificaciones, incluyendo quién hizo los cambios y cuándo.
+
+Colaboración:
+
+Permite que múltiples personas trabajen en un proyecto simultáneamente sin sobrescribir el trabajo de los demás.
+
+Reversión:
+
+Permite volver a versiones anteriores si ocurre un error o si se necesita recuperar un estado específico del proyecto.
+
+Ramas (Branches):
+
+Permite desarrollar nuevas características de manera independiente y luego fusionarlas con la versión principal.
