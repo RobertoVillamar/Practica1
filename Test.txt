@@ -12,7 +12,7 @@ El polimorfismo permite que diferentes clases se traten como instancias de una m
 6. ¿Qué es un método en POO?
 Un método es una función definida dentro de una clase que describe el comportamiento de los objetos de esa clase.
 7. ¿Qué es un atributo en POO?
-
+Son las características de un objeto estas son las que se usan para poder clasificarlos buscando características similares en varios objetos
 8. ¿Qué es un constructor?
 
 9. ¿Qué es una instancia de una clase?
