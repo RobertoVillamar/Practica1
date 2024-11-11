@@ -16,5 +16,5 @@ Son las características de un objeto estas son las que se usan para poder clasi
 8. ¿Qué es un constructor?
 Un constructor es un método especial que se ejecuta automáticamente cuando se crea una instancia de una clase.
 9. ¿Qué es una instancia de una clase?
-
+Una instancia de una clase es un objeto creado a partir de esa clase.
 10. ¿Qué es una interfaz en POO?
