@@ -14,7 +14,7 @@ Un método es una función definida dentro de una clase que describe el comporta
 7. ¿Qué es un atributo en POO?
 Son las características de un objeto estas son las que se usan para poder clasificarlos buscando características similares en varios objetos
 8. ¿Qué es un constructor?
-
+Un constructor es un método especial que se ejecuta automáticamente cuando se crea una instancia de una clase.
 9. ¿Qué es una instancia de una clase?
 
 10. ¿Qué es una interfaz en POO?
