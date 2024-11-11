@@ -10,7 +10,7 @@ La herencia permite crear una nueva clase basada en una clase existente, heredan
 5. ¿Qué es el polimorfismo?
 El polimorfismo permite que diferentes clases se traten como instancias de una misma clase a través de una interfaz común.
 6. ¿Qué es un método en POO?
-
+Un método es una función definida dentro de una clase que describe el comportamiento de los objetos de esa clase.
 7. ¿Qué es un atributo en POO?
 
 8. ¿Qué es un constructor?
