@@ -18,3 +18,4 @@ Un constructor es un método especial que se ejecuta automáticamente cuando se 
 9. ¿Qué es una instancia de una clase?
 Una instancia de una clase es un objeto creado a partir de esa clase.
 10. ¿Qué es una interfaz en POO?
+Una interfaz es una colección de métodos abstractos que define un comportamiento que las clases pueden implementar.
