@@ -6,7 +6,7 @@ Una clase es un modelo para crear objetos que contiene atributos generales de es
 Es la propiedad de proteger los atributos de una clase y darles acceso a ver o modificar con los 
 métodos Gets y Sets
 4. ¿Qué es la herencia?
-
+La herencia permite crear una nueva clase basada en una clase existente, heredando sus atributos y métodos.
 5. ¿Qué es el polimorfismo?
 
 6. ¿Qué es un método en POO?
