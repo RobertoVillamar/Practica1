@@ -1,7 +1,7 @@
 1. ¿Qué es un objeto en POO?
 Un objeto es una instancia de una clase que puede tener atributos y métodos.
 2. ¿Qué es una clase en POO?
-
+Una clase es un modelo para crear objetos que contiene atributos generales de este y métodos.
 3. ¿Qué es la encapsulación?
 
 4. ¿Qué es la herencia?
