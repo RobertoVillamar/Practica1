@@ -3,7 +3,8 @@ Un objeto es una instancia de una clase que puede tener atributos y métodos.
 2. ¿Qué es una clase en POO?
 Una clase es un modelo para crear objetos que contiene atributos generales de este y métodos.
 3. ¿Qué es la encapsulación?
-
+Es la propiedad de proteger los atributos de una clase y darles acceso a ver o modificar con los 
+métodos Gets y Sets
 4. ¿Qué es la herencia?
 
 5. ¿Qué es el polimorfismo?
